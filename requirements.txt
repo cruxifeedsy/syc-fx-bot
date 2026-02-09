@@ -1,5 +1,0 @@
-requests
-pandas
-ta
-MetaTrader5
-python-dotenv
